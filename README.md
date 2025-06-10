@@ -1,1 +1,4 @@
 # project1
+What I did well: I think something I did well was the stacks although I couldn't get the cards in the stack to turn faceup. I think I also did a pretty good job at organizing my code into multiple files just to make it easier on myself. The main file is where all the set up happens. The piles are set up and placed as well as the movement. The card file contains all the card's properties such as their rank, color, and whether it's face up or down. I used state patterns to keep track of the direction of the card (face up or face down). The grabber file contains a function to move and drag the cards around. 
+What I think I could improve: I think for next time I can try and make the slots for the ace to only accept ace cards in the given slot.
+All assets from https://www.cleanpng.com/
